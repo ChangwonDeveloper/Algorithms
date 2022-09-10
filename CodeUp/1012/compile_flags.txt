@@ -1,0 +1,3 @@
+-IC:\Programming\Algorithms\CodeUp\CodeUp\1012
+-target
+i686-pc-windows-gnu
